@@ -25,8 +25,8 @@ local-zone: "s.innovid.com" redirect
 local-data: "s.innovid.com A 127.0.0.1"
 local-zone: "securepubads.g.doubleclick.net" redirect
 local-data: "securepubads.g.doubleclick.net A 127.0.0.1"
-local-zone: "secure-ds.serving-sys.com" redirect
-local-data: "secure-ds.serving-sys.com A 127.0.0.1"
+local-zone: "secure-ds.serving-sys.com    " redirect
+local-data: "secure-ds.serving-sys.com     A 127.0.0.1"
 local-zone: "s0.2mdn.net" redirect
 local-data: "s0.2mdn.net A 127.0.0.1"
 local-zone: "rtd.tubemogul.com" redirect
@@ -18439,6 +18439,60 @@ local-zone: "r10---sn-25ge7n76.googlevideo.com" redirect
 local-data: "r10---sn-25ge7n76.googlevideo.com A 127.0.0.1"
 local-zone: "r10.sn-25ge7n76.googlevideo.com" redirect
 local-data: "r10.sn-25ge7n76.googlevideo.com A 127.0.0.1"
+local-zone: "rr2---sn-oguelnss.googlevideo.com" redirect
+local-data: "rr2---sn-oguelnss.googlevideo.com A 127.0.0.1"
+local-zone: "rr5---sn-ogul7n7k.googlevideo.com" redirect
+local-data: "rr5---sn-ogul7n7k.googlevideo.com A 127.0.0.1"
+local-zone: "rr2---sn-oguelnlz.googlevideo.com" redirect
+local-data: "rr2---sn-oguelnlz.googlevideo.com A 127.0.0.1"
+local-zone: "rr5---sn-oguelnlz.googlevideo.com" redirect
+local-data: "rr5---sn-oguelnlz.googlevideo.com A 127.0.0.1"
+local-zone: "rr6---sn-ogueln7r.googlevideo.com" redirect
+local-data: "rr6---sn-ogueln7r.googlevideo.com A 127.0.0.1"
+local-zone: "rr5---sn-oguesn6d.googlevideo.com" redirect
+local-data: "rr5---sn-oguesn6d.googlevideo.com A 127.0.0.1"
+local-zone: "rr5---sn-oguesnze.googlevideo.com" redirect
+local-data: "rr5---sn-oguesnze.googlevideo.com A 127.0.0.1"
+local-zone: "rr4---sn-oguelnle.googlevideo.com" redirect
+local-data: "rr4---sn-oguelnle.googlevideo.com A 127.0.0.1"
+local-zone: "rr5---sn-oguesn6r.googlevideo.com" redirect
+local-data: "rr5---sn-oguesn6r.googlevideo.com A 127.0.0.1"
+local-zone: "rr4---sn-ogul7n7z.googlevideo.com" redirect
+local-data: "rr4---sn-ogul7n7z.googlevideo.com A 127.0.0.1"
+local-zone: "rr3---sn-ogul7nll.googlevideo.com" redirect
+local-data: "rr3---sn-ogul7nll.googlevideo.com A 127.0.0.1"
+local-zone: "rr1---sn-ogul7nll.googlevideo.com" redirect
+local-data: "rr1---sn-ogul7nll.googlevideo.com A 127.0.0.1"
+local-zone: "rr3---sn-oguesn6r.googlevideo.com" redirect
+local-data: "rr3---sn-oguesn6r.googlevideo.com A 127.0.0.1"
+local-zone: "rr3---sn-ogul7nez.googlevideo.com" redirect
+local-data: "rr3---sn-ogul7nez.googlevideo.com A 127.0.0.1"
+local-zone: "rr2---sn-cu-nuoz.googlevideo.com" redirect
+local-data: "rr2---sn-cu-nuoz.googlevideo.com A 127.0.0.1"
+local-zone: "rr3---sn-cu-nuoz.googlevideo.com" redirect
+local-data: "rr3---sn-cu-nuoz.googlevideo.com A 127.0.0.1"
+local-zone: "rr3---sn-cu-nuos.googlevideo.com" redirect
+local-data: "rr3---sn-cu-nuos.googlevideo.com A 127.0.0.1"
+local-zone: "rr8---sn-cu-ajtes.googlevideo.com" redirect
+local-data: "rr8---sn-cu-ajtes.googlevideo.com A 127.0.0.1"
+local-zone: "rr3---sn-cu-ajtel.googlevideo.com" redirect
+local-data: "rr3---sn-cu-ajtel.googlevideo.com A 127.0.0.1"
+local-zone: "rr1---sn-cu-nuoz.googlevideo.com" redirect
+local-data: "rr1---sn-cu-nuoz.googlevideo.com A 127.0.0.1"
+local-zone: "rr10---sn-cu-ajtez.googlevideo.com" redirect
+local-data: "rr10---sn-cu-ajtez.googlevideo.com A 127.0.0.1"
+local-zone: "rr6---sn-cu-ajtez.googlevideo.com" redirect
+local-data: "rr6---sn-cu-ajtez.googlevideo.com A 127.0.0.1"
+local-zone: "rr1---sn-cu-ajtee.googlevideo.com" redirect
+local-data: "rr1---sn-cu-ajtee.googlevideo.com A 127.0.0.1"
+local-zone: "rr5---sn-cu-nuoz.googlevideo.com" redirect
+local-data: "rr5---sn-cu-nuoz.googlevideo.com A 127.0.0.1"
+local-zone: "rr8---sn-cu-ajtel.googlevideo.com" redirect
+local-data: "rr8---sn-cu-ajtel.googlevideo.com A 127.0.0.1"
+local-zone: "rr2---sn-cu-nuos.googlevideo.com" redirect
+local-data: "rr2---sn-cu-nuos.googlevideo.com A 127.0.0.1"
+local-zone: "rr9---sn-cu-ajtez.googlevideo.com" redirect
+local-data: "rr9---sn-cu-ajtez.googlevideo.com A 127.0.0.1"
 local-zone: "pubads.g.doubleclick.net" redirect
 local-data: "pubads.g.doubleclick.net A 127.0.0.1"
 local-zone: "pixel.moatads.com" redirect
