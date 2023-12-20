@@ -15,7 +15,7 @@
 ||ssl.google-analytics.com^
 ||s.innovid.com^
 ||securepubads.g.doubleclick.net^
-||secure-ds.serving-sys.com^
+||secure-ds.serving-sys.com    ^
 ||s0.2mdn.net^
 ||rtd.tubemogul.com^
 ||r9---sn-vgqsenez.googlevideo.com^
